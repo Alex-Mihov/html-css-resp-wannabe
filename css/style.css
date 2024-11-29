@@ -161,8 +161,17 @@ img {
         width: 100%;
     }
 
+    .steps {
+        margin-bottom: 0;
+    }
+
     .steps .col {
         width: 100%;
+    }
+
+    .why-us {
+        background-color: #222222;
+        padding-top: 50px;
     }
 
     .why-us .col {
